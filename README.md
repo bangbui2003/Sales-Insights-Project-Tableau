@@ -1,12 +1,13 @@
 <h1 align="center">Sales Insights - Data Analysis using Tableau & SQL</h1>
 
 ### About Project 👨‍💻
+What i have done:
 
-- Performed India based hardware company sales insights - A Data Analysis project.
+- Performed India based hardware company sales insights.
 
-- Developed ETL mappings using SQL to extract the data from unstructured data and transformed it to the staging area to conduct data cleaning and design star schema data model on Tableau.
+- Created ETL mappings using SQL to extract unstructured data and transformed it for staging, performing data cleaning and structuring it into a star schema design for Tableau.
 
-- Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
+- Designed a Tableau dashboard to conduct analysis, producing quantitative visualizations that revealed valuable insights into the factors impacting company performance year over year, leading to business solution recommendations..
 
 ## Technologies used ⚙️
 
@@ -69,6 +70,7 @@ Sales director wants to know the performance of the company in various Indian st
 
 
 ## Data Analysis Using Tableau 
-	
+
+
 
   
