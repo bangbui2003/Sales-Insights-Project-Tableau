@@ -68,9 +68,9 @@ Sales director wants to know the performance of the company in various Indian st
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
 
-
 ## Data Analysis Using Tableau 
 
-
+- A Revenue Analysis Dashboard provides an overview of an organization's revenue streams, helping to track, analyze, and visualize revenue trends over specific ranges of time(2017 - 2020).
+- A Profit Analysis Dashboard to assess organization's profitability, offering insights into profit margins, and overall financial health.
 
   
